@@ -1,0 +1,8 @@
+{
+    "server": "DESKTOP-1VJ6J2G",
+    "database": "AdventureWorks2017",
+    "username": "sa",
+    "password": "test",
+    "tables": ["table1", "table2", "table3"],
+    "s3_bucket": "my-bucket"
+}
